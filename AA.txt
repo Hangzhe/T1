@@ -1,9 +1,7 @@
-Monday
+friday
 Tuesday
 Wednesday
 Thursday
 Friday
 Saturday
 Sunday
-sunday
-friday
