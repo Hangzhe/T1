@@ -1,4 +1,3 @@
-abcdef
 monday
 Tuesday
 Wednesday
