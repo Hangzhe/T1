@@ -5,5 +5,3 @@ Thursday
 Friday
 Saturday
 Sunday
-sunday
-monday
